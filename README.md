@@ -2,7 +2,7 @@
 
 | Skill | What it does |
 |---|---|
-| [resale-listing-writer](resale-listing-writer/SKILL.md) | Writes second-hand listings for Sézane pieces (title, description, condition, measurements, price range) for Vinted, Vestiaire Collective, Depop, eBay, Leboncoin and Instagram, in French or English. |
+| [sezane-capsule-wardrobe](sezane-capsule-wardrobe/SKILL.md) | A personal shopping advisor for building a timeless, mix-and-match wardrobe around Sézane basics and well-cut pieces: maps what you own, defines a palette and core pieces, finds real gaps, and gives a Buy / Wait / Skip verdict on any piece you're tempted by (new or second-hand), in French or English. |
 
 ## Installing a skill
 
